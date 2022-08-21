@@ -1,4 +1,4 @@
-# heabotplus
+# healbotplus
 Modified version of healbot to support DNC optimization
 
 -- Primary Modifications --
